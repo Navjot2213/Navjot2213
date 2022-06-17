@@ -27,7 +27,7 @@ const skills =
 {
   languages :[C, Cpp, Java, Javascript, Python],
  
-  databases :[Sqlite3, MySql, MongoDB],
+  databases :[MySql, MongoDB]
   }
 
 
