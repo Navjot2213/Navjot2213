@@ -48,7 +48,7 @@ while(dev.isCoding() && dev.isStuck())
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -73,7 +73,7 @@ while(dev.isCoding() && dev.isStuck())
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main/Images/Front_End.gif?raw=true" width = 25px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -85,7 +85,7 @@ while(dev.isCoding() && dev.isStuck())
   </a> 
 </p>
 
- ### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -103,7 +103,7 @@ while(dev.isCoding() && dev.isStuck())
   &emsp;
 </p>
 
- ### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main//Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main//Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
  
 <p align="center">
   &emsp;
@@ -116,7 +116,7 @@ while(dev.isCoding() && dev.isStuck())
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main//Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ ### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main//Images/CP_PS.gif?raw=true" width = 25px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -127,7 +127,7 @@ while(dev.isCoding() && dev.isStuck())
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
- ### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main//Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/Navjot2213/Navjot2213/blob/main//Images/OS.gif?raw=true" width = 25px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
